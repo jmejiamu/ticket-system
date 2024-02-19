@@ -3,6 +3,8 @@
 
 
 # run back end
+- Dabatabase used Postgresql
+  
 ```cd ticket-system-server  && npm i```
 
 
